@@ -54208,7 +54208,7 @@ module.exports = ""
 /* 590 */
 /***/ function(module, exports) {
 
-module.exports = "<h2>Reactive Forms</h2>\n<form-1></form-1>"
+module.exports = "<h2>Reactive Form</h2>\n<form-1></form-1>"
 
 /***/ },
 /* 591 */
