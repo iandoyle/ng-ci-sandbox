@@ -11,5 +11,5 @@ Date: December 1, 2016
 
 @(Angular 2)[CI with Azure]
 
-**Sandbox** practice deployment workflow
+**Sandbox** practice deployment workflow success
 # ng-ci-sandbox
